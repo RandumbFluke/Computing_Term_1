@@ -6,4 +6,6 @@
 
 "Low-poly truck (car "Drifter")" (https://skfb.ly/6QUOx) by Ivan Norman is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/)
 
-"Low-poly plane" (https://skfb.ly/6YoSx) by Biomonger is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Low-poly plane" (https://skfb.ly/6YoSx) by Biomonger is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)
+
+SyntaxByte (2021) Three.JS Orbit Controls: Zoom, Pan, Rotate [Checkers 1]. YouTube [video] 16 February. Available from: https://www.youtube.com/watch?v=4ZgkMS5rH3E&t=978s [Accessed 29 November 2022]
