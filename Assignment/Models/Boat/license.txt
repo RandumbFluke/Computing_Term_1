@@ -1,0 +1,11 @@
+Model Information:
+* title:	40ft Tugboat
+* source:	https://sketchfab.com/3d-models/40ft-tugboat-0555e3e0c1be4080a2ba6731b801f8da
+* author:	Potater_King (https://sketchfab.com/Potater_King)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "40ft Tugboat" (https://sketchfab.com/3d-models/40ft-tugboat-0555e3e0c1be4080a2ba6731b801f8da) by Potater_King (https://sketchfab.com/Potater_King) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

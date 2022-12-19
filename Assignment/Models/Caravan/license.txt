@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old-Caravan
+* source:	https://sketchfab.com/3d-models/old-caravan-aa24d330e65d436cb4b75be13553f27a
+* author:	DonBigD (https://sketchfab.com/DonBigD)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old-Caravan" (https://sketchfab.com/3d-models/old-caravan-aa24d330e65d436cb4b75be13553f27a) by DonBigD (https://sketchfab.com/DonBigD) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
