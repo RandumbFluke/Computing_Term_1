@@ -1,0 +1,24 @@
+Company name - Pick'N'Go
+
+Info about company - 
+Welcome to Pick 'N' Go, This is just a small project we have been working on to inform customers on our role in the travel industry,
+We would like to introduce you to the locations we provide our services too as well as our variety of vehicles available for easy travel. 
+You pick the destination, we provide the quickest and most suitbale method of transport and take you from A-B.
+
+
+Inspiration:
+
+Loading Screen:
+https://www.youtube.com/watch?v=zMzuPIiznQ4
+
+Tilt js
+https://www.youtube.com/watch?v=UqEmFSlx4ps&t=1049s
+
+Joshuas World
+https://www.joshuas.world/
+
+Workshop Week 5
+https://codesandbox.io/s/cpc-w05-spheresynthend-9yfb2l?from-embed
+
+Repeat:
+https://www.getrepeat.io/
